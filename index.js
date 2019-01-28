@@ -19,5 +19,5 @@ function deleteFromObjectByKey(object, key) {
   delete Object.assign({},object).key
 }
 
-
+function 
 
